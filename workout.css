@@ -1,0 +1,19 @@
+html, body {
+    margin: 100;
+    padding: 10;
+}
+
+.donuts {
+    height: 300px;
+    width: 425px;
+    border: 2px solid green;
+
+}
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+    background-color: rgb(55,44,22,.4);
+}
+
+
